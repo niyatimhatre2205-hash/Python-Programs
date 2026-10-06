@@ -3,4 +3,4 @@ def remove_duplicates(lst):
     for item in lst:
         if item not in result:
             result.append(item)
-    return results
+    return result
